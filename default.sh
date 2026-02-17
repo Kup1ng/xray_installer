@@ -1,1 +1,1 @@
-curl -4 -s -H -fsSL https://raw.githubusercontent.com/Kup1ng/xray_installer/main/install.sh | bash -s v25.12.8
+curl -4 -s -H -fsSL https://raw.githubusercontent.com/Kup1ng/xray_installer/main/install.sh | bash -s v26.2.6
